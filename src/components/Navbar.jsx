@@ -22,7 +22,7 @@ const Navbar = ({ purchasedProduct }) => {
                 </div>
 
                 
-                <div className="flex items-center gap-5">
+                <div className="flex items-center gap-4">
                     
                     
                     <div className="relative flex items-center border border-gray-300 px-5 py-2 rounded-3xl hover:border-blue-400 transition">
