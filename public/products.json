@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Design Templates Pack",
+        "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+        "price": 49,
+        "period": "one-time",
+        "tag": "popular",
+        "tagType": "popular",
+        "features": [
+            "2000+ templates",
+            "Monthly updates",
+            "Commercial license"
+        ],
+        "icon": "🎨"
+    },
+    {
+        "id": 2,
+        "name": "AI Writing Pro",
+        "description": "Advanced AI writer for blogs, emails, social media, and marketing copies.",
+        "price": 29,
+        "period": "monthly",
+        "tag": "best seller",
+        "tagType": "best seller",
+        "features": [
+            "Unlimited words",
+            "50+ templates",
+            "Plagiarism free"
+        ],
+        "icon": "✍️"
+    },
+    {
+        "id": 3,
+        "name": "Notion Business OS",
+        "description": "Complete Notion system for entrepreneurs and small businesses.",
+        "price": 59,
+        "period": "one-time",
+        "tag": "new",
+        "tagType": "new",
+        "features": [
+            "CRM",
+            "Project Management",
+            "Finance Tracker",
+            "Goal Setting"
+        ],
+        "icon": "📋"
+    },
+    {
+        "id": 4,
+        "name": "Social Media Growth Kit",
+        "description": "Complete toolkit to grow your Instagram, TikTok and LinkedIn.",
+        "price": 39,
+        "period": "one-time",
+        "tag": "popular",
+        "tagType": "popular",
+        "features": [
+            "1000+ captions",
+            "Content calendar",
+            "Hashtag research"
+        ],
+        "icon": "📱"
+    },
+    {
+        "id": 5,
+        "name": "Video Editing Templates",
+        "description": "Premium After Effects & CapCut templates for YouTube and Reels.",
+        "price": 35,
+        "period": "one-time",
+        "tag": "best seller",
+        "tagType": "best seller",
+        "features": [
+            "50+ templates",
+            "Easy to edit",
+            "4K resolution"
+        ],
+        "icon": "🎥"
+    },
+    {
+        "id": 6,
+        "name": "Resume Builder Pro",
+        "description": "Create ATS-friendly professional resumes in minutes.",
+        "price": 19,
+        "period": "one-time",
+        "tag": "new",
+        "tagType": "new",
+        "features": [
+            "50+ templates",
+            "ATS optimized",
+            "Export PDF"
+        ],
+        "icon": "📄"
+    },
+    {
+        "id": 7,
+        "name": "Brand Kit & Logo Maker",
+        "description": "Complete brand identity kit with logo, colors, fonts and guidelines.",
+        "price": 79,
+        "period": "one-time",
+        "tag": "popular",
+        "tagType": "popular",
+        "features": [
+            "Logo maker",
+            "Brand board",
+            "Social media kit"
+        ],
+        "icon": "🔥"
+    },
+    {
+        "id": 8,
+        "name": "SEO Optimizer Toolkit",
+        "description": "All-in-one SEO tools for keyword research, ranking and tracking.",
+        "price": 25,
+        "period": "monthly",
+        "tag": "best seller",
+        "tagType": "best seller",
+        "features": [
+            "Keyword research",
+            "Competitor analysis",
+            "Rank tracker"
+        ],
+        "icon": "📈"
+    },
+    {
+        "id": 9,
+        "name": "Email Marketing Templates",
+        "description": "High-converting email templates for newsletters and promotions.",
+        "price": 22,
+        "period": "one-time",
+        "tag": "best seller",
+        "tagType": "best seller",
+        "features": [
+            "50+ templates",
+            "Mailchimp ready",
+            "High conversion"
+        ],
+        "icon": "✉️"
+    },
+    {
+        "id": 10,
+        "name": "Analytics Dashboard Pro",
+        "description": "Beautiful Notion & Google Sheets based analytics dashboard.",
+        "price": 45,
+        "period": "one-time",
+        "tag": "new",
+        "tagType": "new",
+        "features": [
+            "Real-time data",
+            "Custom metrics",
+            "Export reports"
+        ],
+        "icon": "📊"
+    },
+    {
+        "id": 11,
+        "name": "No-Code Website Builder",
+        "description": "Build stunning websites without writing a single line of code.",
+        "price": 69,
+        "period": "one-time",
+        "tag": "popular",
+        "tagType": "popular",
+        "features": [
+            "Drag & drop",
+            "Mobile responsive",
+            "Hosting included"
+        ],
+        "icon": "🌐"
+    },
+    {
+        "id": 12,
+        "name": "Stock Photos & Icons Bundle",
+        "description": "10,000+ premium stock photos and icons for commercial use.",
+        "price": 15,
+        "period": "one-time",
+        "tag": "best seller",
+        "tagType": "best seller",
+        "features": [
+            "10k+ assets",
+            "Commercial license",
+            "Regular updates"
+        ],
+        "icon": "🖼️"
+    }
+]
