@@ -52,7 +52,7 @@ function App() {
         <div className='flex justify-center pt-5'>
           <button onClick={handleSelectProducts} className={`${toggle === true ? 'bg-blue-800 text-white' : 'border border-gray-400 '} px-5 py-2 rounded-l-3xl text-blue-800 border border-gray-200 border-r-0 cursor-pointer`}>Products</button>
 
-          <button onClick={handleSelectCart} className={`${toggle === false ? 'bg-blue-700 text-white' : ''} px-5 py-2 rounded-r-3xl text-blue-800 border border-gray-200 border-l-0 cursor-pointer`}>Cart ({purchasedProduct.length})</button>
+          <button onClick={handleSelectCart} className={`${toggle === false ? 'bg-blue-800 text-white' : ''} px-5 py-2 rounded-r-3xl text-blue-800 border border-gray-200 border-l-0 cursor-pointer`}>Cart ({purchasedProduct.length})</button>
         </div>
       </div>
 
